@@ -1,3 +1,3 @@
 # Real Estate App
-### [Live Site](https://z-commerce.netlify.app/)
+### [Live Site](https://ezztate.netlify.app/)
 
